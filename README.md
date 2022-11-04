@@ -1,16 +1,28 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://i.postimg.cc/mg78QnmM/6.jpg" width="840px" height="141px"/>
+</div>
 
-<!--
-**andreipy2023/andreipy2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="badges">
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+
+<h1>
+  Данные нужно извлекать, обрабатывать, структурировать и создовать новое
+
+</h1>
+
+### Изучаемые технологии :
+
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Flutter" alt="Flutter" width="60" height="60"/>&nbsp;
+  <img src="https://i.postimg.cc/Xv7v0pDv/ustanovka-mysql.png" title="MySQL" alt="MySQL " width="60" height="60"/>&nbsp;
+</div>
